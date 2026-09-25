@@ -39,16 +39,15 @@ The Arduino UNO is connected to a laptop through USB. The sensor values are sent
 This system can be used in homes, kitchens, laboratories, workshops, small industries, and other areas where fire and gas safety is important.
 
 **working image**  
-**![][image1]**
+**![](image1.jpg)**
 
 **Dashboard image**  
-**![][image2]**
+**![](dashboard.jpg)**
 
 **Block Diagram**  
-**![][image3]**  
+**![](block.jpg)**  
 **Schematic diagram**  
-**![][image4]**
-
+**![](schematic.jpg)**
 **Program in arduino**  
 \#include \<Wire.h\>  
 \#include \<LiquidCrystal\_I2C.h\>  
